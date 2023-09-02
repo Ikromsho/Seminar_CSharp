@@ -1,0 +1,15 @@
+D:\GB\Seminar\Seminar1\007\obj\Debug\net6.0\007.csproj.AssemblyReference.cache
+D:\GB\Seminar\Seminar1\007\obj\Debug\net6.0\007.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Seminar\Seminar1\007\obj\Debug\net6.0\007.AssemblyInfoInputs.cache
+D:\GB\Seminar\Seminar1\007\obj\Debug\net6.0\007.AssemblyInfo.cs
+D:\GB\Seminar\Seminar1\007\obj\Debug\net6.0\007.csproj.CoreCompileInputs.cache
+D:\GB\Seminar\Seminar1\007\bin\Debug\net6.0\007.exe
+D:\GB\Seminar\Seminar1\007\bin\Debug\net6.0\007.deps.json
+D:\GB\Seminar\Seminar1\007\bin\Debug\net6.0\007.runtimeconfig.json
+D:\GB\Seminar\Seminar1\007\bin\Debug\net6.0\007.dll
+D:\GB\Seminar\Seminar1\007\bin\Debug\net6.0\007.pdb
+D:\GB\Seminar\Seminar1\007\obj\Debug\net6.0\007.dll
+D:\GB\Seminar\Seminar1\007\obj\Debug\net6.0\refint\007.dll
+D:\GB\Seminar\Seminar1\007\obj\Debug\net6.0\007.pdb
+D:\GB\Seminar\Seminar1\007\obj\Debug\net6.0\007.genruntimeconfig.cache
+D:\GB\Seminar\Seminar1\007\obj\Debug\net6.0\ref\007.dll
